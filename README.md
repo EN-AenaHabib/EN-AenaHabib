@@ -1,10 +1,7 @@
 # Hello, I'm Aena 👋
 
-AI Enthusiast | Data Explorer | Innovation Seeker
-
 A tech enthusiast with a love for AI and creative problem-solving.
 I may not know everything yet, but I’m driven by curiosity, growth, and a passion for continuous learning.
-
 ---
 
 ## 🔧 Skills & Tools
@@ -29,9 +26,6 @@ I may not know everything yet, but I’m driven by curiosity, growth, and a pass
 
 - WiFi CSI Motion Detection using Machine Learning  
 - Virtual Tour of Our University using React  
-
-![Work in Progress](https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f757365722f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966)
-
 ---
 
 ## 📫 Connect with me
