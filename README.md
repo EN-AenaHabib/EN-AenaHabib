@@ -1,12 +1,10 @@
-<!-- ═══════════════════════════════════════════════════ -->
-<!--                  PIXEL GAME HEADER                  -->
-<!-- ═══════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════ -->
+<!--                     HEADER                            -->
+<!-- ══════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://64.media.tumblr.com/tumblr_m1gcei3AGf1qzl9pho1_250.gif" width="40"/>
-<img src="https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif" width="40"/>
-<img src="https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif" width="40"/>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUydGlyNGF5dDd0dHRiZG55MnIxZTIxa2RsNjd6Z3U0cWozcGg4ZnliMiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/NpMOXmJNHFD3IO9Xto/200.gif" width="120"/>
 
 ```
  █████╗ ███████╗███╗  ██╗ █████╗     ██╗  ██╗ █████╗ ██████╗ ██╗██████╗
@@ -17,71 +15,62 @@
 ╚═╝  ╚═╝╚══════╝╚═╝  ╚══╝╚═╝  ╚═╝    ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝╚═════╝
 ```
 
-<img src="<img width="360" height="360" alt="image" src="https://github.com/user-attachments/assets/d21c88eb-12ed-4aaa-92fa-71da882385d9" />
-/>
-
-<!-- pixel grass row -->
-<img src="[https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif](https://i.pinimg.com/564x/0b/5d/05/0b5d054615ab577b78ebfbc460ef5bae.jpg)" width="30"/>
-
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=24&pause=1200&color=FF9EDE&center=true&vCenter=true&width=680&lines=%E2%96%B6+AI+Engineer+%7C+System+Architect+%7C+CMO+%40+Viylsa+%E2%97%80;%E2%96%B6+Computer+Vision+%7C+Speech+Processing+%7C+NLP+%E2%97%80;%E2%96%B6+Kafka+%7C+Distributed+Systems+%7C+Real-Time+Pipelines+%E2%97%80;%E2%96%B6+Building+intelligent+systems+that+scale+%E2%97%80" />
 
 <br/>
 
-![](https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓-FFB3D9?style=flat-square&labelColor=FFB3D9)
+<img src="https://art.pixilart.com/7badccc6206bf0f.gif" width="80"/>
+
+<br/><br/>
+
+<img src="https://i.pinimg.com/originals/80/7b/5c/807b5c4b02e765bb4930b7c66662ef4b.gif" width="320"/>
+
+<br/>
+
+![](https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓-FFB3D9?style=flat-square&labelColor=FFB3D9)
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════ -->
-<!--                    ABOUT ME                         -->
-<!-- ═══════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════ -->
+<!--                   ABOUT                               -->
+<!-- ══════════════════════════════════════════════════════ -->
 
 <div align="center">
-
-<img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="80"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="80"/>
 
 ## 🌸 ` player.profile ` 🌸
 
 </div>
 
 ```
-╔═════════════════════════════════════════════════════════════╗
-║  ⋆ ˚。⋆  AENA HABIB  ⋆ ˚。⋆                [♥♥♥♥♥] LVL 99 ║
-╠═════════════════════════════════════════════════════════════╣
-║                                                             ║
-║  CLASS   ▸  AI Engineer + System Architect                  ║
-║  ROLE    ▸  CMO @ Viylsa  (360° Virtual Tour Startup)       ║
-║  GUILD   ▸  AI Research  ✦  Distributed Systems             ║
-║  QUEST   ▸  Turning complex problems into elegant code      ║
-║  BUFF    ▸  ENHYPEN on repeat 🎵  +999 focus                ║
-║                                                             ║
-╠═════════════════════════════════════════════════════════════╣
-║  SIDE QUESTS                                                ║
-║  ◈ Always questioning, testing, and improving               ║
-║  ◈ Finding elegant solutions like solving puzzles 🔍        ║
-║  ◈ Learning something new every day 📚                      ║
-╚═════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════╗
+║  ⋆ ˚。⋆  AENA HABIB  ⋆ ˚。⋆                 [♥♥♥♥♥] LVL 99 ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  CLASS   ▸  AI Engineer  +  System Architect                 ║
+║  ROLE    ▸  CMO @ Viylsa  —  360° Virtual Tour Startup       ║
+║  FOCUS   ▸  Distributed Systems · Real-Time · ML Research    ║
+║  QUEST   ▸  Turning complex problems into elegant solutions   ║
+║  BUFF    ▸  ENHYPEN on repeat 🎵  +999 focus                 ║
+║                                                              ║
+╠══════════════════════════════════════════════════════════════╣
+║  TRAITS                                                      ║
+║  ◈ Precision-driven engineer with a research mindset         ║
+║  ◈ Bridges technical depth with product strategy             ║
+║  ◈ Obsessed with elegant architecture & scalable design      ║
+╚══════════════════════════════════════════════════════════════╝
 ```
-
-<div align="center">
-<img src="https://64.media.tumblr.com/8b8571ca4ce2138dfc1f7ca6ed2d6b52/tumblr_nq3kqjM8Af1rflxcdo1_500.gifv" width="70"/>
-&nbsp;
-<img src="https://64.media.tumblr.com/8b8571ca4ce2138dfc1f7ca6ed2d6b52/tumblr_nq3kqjM8Af1rflxcdo1_500.gifv" width="70"/>
-</div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════ -->
-<!--                   SKILL TREE                        -->
-<!-- ═══════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════ -->
+<!--                  SKILL TREE                            -->
+<!-- ══════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 ## 🎮 ` skill.tree ` 🎮
-
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="55"/>
 
 **✦ languages ✦**
 
@@ -122,13 +111,11 @@
 
 ---
 
-<!-- ═══════════════════════════════════════════════════ -->
-<!--                    PROJECTS                         -->
-<!-- ═══════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════ -->
+<!--                  PROJECTS                              -->
+<!-- ══════════════════════════════════════════════════════ -->
 
 <div align="center">
-
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="60"/>
 
 ## 💾 ` active.quests ` 💾
 
@@ -136,62 +123,54 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
-║  🏢  VIYLSA  ─  360° Virtual Tour Startup                   ║
+║  🏢  VIYLSA  —  360° Virtual Tour Startup                    ║
 ║  ▸ Role  : Chief Marketing Officer (CMO)                     ║
-║  ▸ Stack : React · Three.js · WebGL · 360° Imaging          ║
-║  ▸ Focus : Immersive virtual experiences for institutions    ║
-║  STATUS  : [████████░░] SCALING  🚀                         ║
+║  ▸ Stack : React · Three.js · WebGL · 360° Imaging           ║
+║  ▸ Building immersive virtual experiences for institutions   ║
+║  STATUS  : [████████░░]  SCALING  🚀                        ║
 ╚══════════════════════════════════════════════════════════════╝
 
 ╔══════════════════════════════════════════════════════════════╗
 ║  📶  WiFi CSI Motion Detection                               ║
-║  ▸ Using WiFi channel state info to detect human motion      ║
+║  ▸ Human motion detection via WiFi channel state info        ║
 ║  ▸ Stack : Python · scikit-learn · Signal Processing         ║
-║  STATUS  : [███████░░░] IN PROGRESS  🟡                     ║
+║  STATUS  : [███████░░░]  IN PROGRESS  🟡                    ║
 ╚══════════════════════════════════════════════════════════════╝
 
 ╔══════════════════════════════════════════════════════════════╗
 ║  🏫  Virtual University Tour                                 ║
 ║  ▸ Immersive 3D campus walkthrough experience                ║
 ║  ▸ Stack : React · Three.js · WebGL · GSAP                  ║
-║  STATUS  : [██████░░░░] IN PROGRESS  🟡                     ║
-╚══════════════════════════════════════════════════════════════╝
-
-╔══════════════════════════════════════════════════════════════╗
-║  🧪  NetLogo Agent-Based Simulation                          ║
-║  ▸ Complex system modeling & emergent behavior               ║
-║  ▸ Stack : NetLogo · R · Statistical Analysis               ║
-║  STATUS  : [████░░░░░░] EXPLORING  🔵                       ║
+║  STATUS  : [██████░░░░]  IN PROGRESS  🟡                    ║
 ╚══════════════════════════════════════════════════════════════╝
 
 ╔══════════════════════════════════════════════════════════════╗
 ║  🦀  High-Performance ML Pipeline                            ║
-║  ▸ Blazing fast inference pipeline with Rust + Kafka         ║
+║  ▸ Blazing-fast inference pipeline built with Rust + Kafka   ║
 ║  ▸ Stack : Rust · Apache Kafka · Docker · Redis             ║
-║  STATUS  : [██░░░░░░░░] PLANNING  🔵                        ║
+║  STATUS  : [███░░░░░░░]  PLANNING  🔵                       ║
 ╚══════════════════════════════════════════════════════════════╝
 
 ╔══════════════════════════════════════════════════════════════╗
 ║  ⚡  AI Workflow Automation Engine                           ║
-║  ▸ Autonomous AI agents + no-code automation flows          ║
+║  ▸ Autonomous AI agent workflows + no-code automation        ║
 ║  ▸ Stack : n8n · LangChain · FastAPI · Python               ║
-║  STATUS  : [██░░░░░░░░] PLANNING  🔵                        ║
+║  STATUS  : [██░░░░░░░░]  PLANNING  🔵                       ║
+╚══════════════════════════════════════════════════════════════╝
+
+╔══════════════════════════════════════════════════════════════╗
+║  🧪  NetLogo Agent-Based Simulation                          ║
+║  ▸ Modeling emergent behavior in complex adaptive systems    ║
+║  ▸ Stack : NetLogo · R · Statistical Modeling               ║
+║  STATUS  : [████░░░░░░]  EXPLORING  🔵                      ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-<div align="center">
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="60"/>
-&nbsp;&nbsp;
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="60"/>
-&nbsp;&nbsp;
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="60"/>
-</div>
-
 ---
 
-<!-- ═══════════════════════════════════════════════════ -->
-<!--                  SYSTEM DESIGN                      -->
-<!-- ═══════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════ -->
+<!--               SYSTEM DESIGN                            -->
+<!-- ══════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -200,56 +179,52 @@
 </div>
 
 ```
-  REAL-TIME PIPELINE  ✦  kafka architecture
+  REAL-TIME DATA PIPELINE  ✦  kafka architecture
   ╔══════════╗     ╔══════════╗     ╔══════════╗
   ║  SOURCE  ║────▶║  KAFKA   ║────▶║  STREAM  ║
-  ║  DATA    ║     ║  BROKER  ║     ║ PROCESS  ║
+  ║  DATA    ║     ║  BROKER  ║     ║ PROCESSOR║
   ╚══════════╝     ╚══════════╝     ╚══════════╝
                         │                │
                    ╔════╧═════╗    ╔═════╧════╗
-                   ║ TOPIC A  ║    ║  ML MODEL║
-                   ║ TOPIC B  ║    ║  SERVING ║
+                   ║ TOPIC A  ║    ║ ML MODEL ║
+                   ║ TOPIC B  ║    ║ SERVING  ║
                    ╚══════════╝    ╚══════════╝
 
   architecture patterns  ˚ ༘♡
   ┌──────────────────────────────────────────────┐
-  │  ◈ Event-Driven    ◈  Microservices          │
-  │  ◈ CQRS            ◈  Pub / Sub             │
-  │  ◈ CAP Theorem     ◈  Sharding              │
-  │  ◈ Load Balancing  ◈  Domain-Driven Design  │
+  │  ◈ Event-Driven      ◈  Microservices        │
+  │  ◈ CQRS              ◈  Pub / Sub           │
+  │  ◈ CAP Theorem       ◈  Sharding            │
+  │  ◈ Load Balancing    ◈  Domain-Driven Design │
   └──────────────────────────────────────────────┘
 ```
 
 ---
 
-<!-- ═══════════════════════════════════════════════════ -->
-<!--                   AI DOMAINS                        -->
-<!-- ═══════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════ -->
+<!--                  AI DOMAINS                            -->
+<!-- ══════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 ## 🔮 ` ai.domains ` 🔮
 
-<img src="https://media.giphy.com/media/xT9IgG50Lg7russbDa/giphy.gif" width="50"/>
-&nbsp;
-<img src="https://media.giphy.com/media/xT9IgG50Lg7russbDa/giphy.gif" width="50"/>
-
 </div>
 
 ```
-  👁️  COMPUTER VISION        🎙️  SPEECH PROCESSING
-  ╔════════════════════╗     ╔════════════════════╗
-  ║ Detection          ║     ║ ASR / TTS          ║
-  ║ Segmentation       ║     ║ Audio ML           ║
-  ║ OpenCV  ·  YOLO    ║     ║ Wav2Vec            ║
-  ╚════════════════════╝     ╚════════════════════╝
+  👁️  COMPUTER VISION         🎙️  SPEECH PROCESSING
+  ╔════════════════════╗      ╔════════════════════╗
+  ║ Object Detection   ║      ║ ASR / TTS          ║
+  ║ Segmentation       ║      ║ Audio Classification║
+  ║ OpenCV · YOLO      ║      ║ Wav2Vec            ║
+  ╚════════════════════╝      ╚════════════════════╝
 
-  🤝  NLP & LLMs              🧪  SIMULATION & ABM
-  ╔════════════════════╗     ╔════════════════════╗
-  ║ RAG Pipelines      ║     ║ NetLogo Modeling   ║
-  ║ Prompt Engineering ║     ║ Complex Systems    ║
-  ║ Text Classification║     ║ Agent Behavior     ║
-  ╚════════════════════╝     ╚════════════════════╝
+  🤝  NLP & LLMs               🧪  SIMULATION & ABM
+  ╔════════════════════╗      ╔════════════════════╗
+  ║ RAG Pipelines      ║      ║ NetLogo Modeling   ║
+  ║ Prompt Engineering ║      ║ Complex Systems    ║
+  ║ Text Classification║      ║ Emergent Behavior  ║
+  ╚════════════════════╝      ╚════════════════════╝
 
   ⚡  MLOps & Automation
   ╔════════════════════╗
@@ -261,13 +236,11 @@
 
 ---
 
-<!-- ═══════════════════════════════════════════════════ -->
-<!--                    STATS                            -->
-<!-- ═══════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════ -->
+<!--                    STATS                               -->
+<!-- ══════════════════════════════════════════════════════ -->
 
 <div align="center">
-
-<img src="https://media.giphy.com/media/WoWm8YzFQJg5i/giphy.gif" width="70"/>
 
 ## 📊 ` stats.board ` 📊
 
@@ -282,38 +255,22 @@
 
 ---
 
-<!-- ═══════════════════════════════════════════════════ -->
-<!--                   CONNECT                           -->
-<!-- ═══════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════ -->
+<!--                   CONNECT                              -->
+<!-- ══════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 ## 🌷 ` connect.now ` 🌷
-
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="65"/>
 
 [![LinkedIn](https://img.shields.io/badge/▶_LinkedIn-FFB3D9?style=for-the-badge&logo=linkedin&logoColor=555)](https://www.linkedin.com/in/aena-habib-260947354/)
 [![GitHub](https://img.shields.io/badge/▶_GitHub-C7CEEA?style=for-the-badge&logo=github&logoColor=555)](https://github.com/EN-AenaHabib)
 
 <br/>
 
-<!-- pixel grass footer -->
-<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="28"/>
-<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="28"/>
-<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="28"/>
-<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="28"/>
-<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="28"/>
-<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="28"/>
-<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="28"/>
-<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="28"/>
-<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="28"/>
-<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="28"/>
-
-<br/>
-
 ```
   ✦ ✦ ✦  "precision + passion = innovation"  ✦ ✦ ✦
-            #ENGENE  ♡  #StudentDeveloper
+            #ENGENE  ♡  #AI  #SystemDesign
         ░ ▒ ▓ █  building dreams in code  █ ▓ ▒ ░
 ```
 
