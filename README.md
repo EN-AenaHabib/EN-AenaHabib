@@ -17,19 +17,12 @@
 ╚═╝  ╚═╝╚══════╝╚═╝  ╚══╝╚═╝  ╚═╝    ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝╚═════╝
 ```
 
-<img src="[https://readme-typing-svg.demolab.com?font=VT323&size=26&pause=1000&color=FF9EDE&center=true&vCenter=true&width=650&lines=%E2%96%B6+AI+Engineer+%7C+System+Architect+%7C+CMO+%40+Viylsa+%E2%97%80;%E2%96%B6+Computer+Vision+%7C+Speech+%7C+NLP+%E2%97%80;%E2%96%B6+Kafka+%7C+Real-Time+%7C+Distributed+Systems+%E2%97%80;%E2%96%B6+Powered+by+ENHYPEN+%F0%9F%96%A4+%E2%97%80"](https://png.pngtree.com/png-vector/20220220/ourmid/pngtree-pixel-art-grass-underbrush-png-image_4408623.png)" />
+<img src="<img width="360" height="360" alt="image" src="https://github.com/user-attachments/assets/d21c88eb-12ed-4aaa-92fa-71da882385d9" />
+/>
 
 <!-- pixel grass row -->
-<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="30"/>
-<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="30"/>
-<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="30"/>
-<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="30"/>
-<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="30"/>
-<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="30"/>
-<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="30"/>
-<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="30"/>
-<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="30"/>
-<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="30"/>
+<img src="[https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif](https://i.pinimg.com/564x/0b/5d/05/0b5d054615ab577b78ebfbc460ef5bae.jpg)" width="30"/>
+
 
 <br/>
 
