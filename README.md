@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif" width="40"/>
+<img src="https://64.media.tumblr.com/tumblr_m1gcei3AGf1qzl9pho1_250.gif" width="40"/>
 <img src="https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif" width="40"/>
 <img src="https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif" width="40"/>
 
@@ -17,7 +17,7 @@
 ╚═╝  ╚═╝╚══════╝╚═╝  ╚══╝╚═╝  ╚═╝    ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝╚═════╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=26&pause=1000&color=FF9EDE&center=true&vCenter=true&width=650&lines=%E2%96%B6+AI+Engineer+%7C+System+Architect+%7C+CMO+%40+Viylsa+%E2%97%80;%E2%96%B6+Computer+Vision+%7C+Speech+%7C+NLP+%E2%97%80;%E2%96%B6+Kafka+%7C+Real-Time+%7C+Distributed+Systems+%E2%97%80;%E2%96%B6+Powered+by+ENHYPEN+%F0%9F%96%A4+%E2%97%80" />
+<img src="[https://readme-typing-svg.demolab.com?font=VT323&size=26&pause=1000&color=FF9EDE&center=true&vCenter=true&width=650&lines=%E2%96%B6+AI+Engineer+%7C+System+Architect+%7C+CMO+%40+Viylsa+%E2%97%80;%E2%96%B6+Computer+Vision+%7C+Speech+%7C+NLP+%E2%97%80;%E2%96%B6+Kafka+%7C+Real-Time+%7C+Distributed+Systems+%E2%97%80;%E2%96%B6+Powered+by+ENHYPEN+%F0%9F%96%A4+%E2%97%80"](https://png.pngtree.com/png-vector/20220220/ourmid/pngtree-pixel-art-grass-underbrush-png-image_4408623.png)" />
 
 <!-- pixel grass row -->
 <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="30"/>
