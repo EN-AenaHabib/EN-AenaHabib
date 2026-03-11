@@ -30,15 +30,15 @@
 ╔══════════════════════════════════════════════════════╗
 ║  ⋆ ˚｡⋆  AENA HABIB  ⋆ ˚｡⋆          [♥][♦][♣][♠]  ║
 ╠══════════════════════════════════════════════════════╣
-║                                                      ║
+║                                                       ║
 ║  ▸ AI Engineer exploring real-world problems         ║
-║  ▸ Turning data + code into elegant solutions        ║
-║  ▸ System design nerd  ✦  distributed systems ♡      ║
-║  ▸ ENHYPEN is my forever motivation playlist 🎵      ║
+║  ▸ Turning data + code into elegant solutions         ║
+║  ▸ System design nerd  ✦  distributed systems ♡     ║
+║  ▸ ENHYPEN is my forever motivation playlist 🎵      ║ 
 ║                                                      ║
-║  ░░░ CURRENTLY CRAFTING ░░░                          ║
+║  ░░░ CURRENTLY CRAFTING ░░░                           ║
 ║  ◈ 📶  WiFi CSI Motion Detection  (ML)              ║
-║  ◈ 🏫  Virtual University Tour   (React + Three.js) ║
+║  ◈ 🏫  Virtual University Tour   (React + Three.js)  ║
 ║                                                      ║
 ╚══════════════════════════════════════════════════════╝
 ```
