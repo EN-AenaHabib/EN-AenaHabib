@@ -93,7 +93,7 @@
 
 <br/>
 
-**✦ infra + real-time systems ✦**
+**✦  real-time systems ✦**
 
 ![Kafka](https://img.shields.io/badge/■_Kafka-FFB3C1?style=flat-square&logo=apachekafka&logoColor=555)
 ![Docker](https://img.shields.io/badge/■_Docker-B5EAD7?style=flat-square&logo=docker&logoColor=555)
