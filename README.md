@@ -1,6 +1,6 @@
 <div align="center">
 
-## Aena Habib
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=FF9EDE&center=true&vCenter=true&width=500&lines=AENA+HABIB" alt="Typing SVG" />
 **AI Engineer · System Architect · CMO @ Viylsa**
 
 <img src="https://i.pinimg.com/originals/80/7b/5c/807b5c4b02e765bb4930b7c66662ef4b.gif" width="200"/>
