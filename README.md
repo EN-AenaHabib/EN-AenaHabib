@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=FF9EDE&center=true&vCenter=true&width=500&lines=AENA+HABIB" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=38&pause=1000&color=FF9EDE&center=true&vCenter=true&width=600&lines=AENA+HABIB" alt="Aena Habib" />
+
 **AI Engineer · System Architect · CMO @ Viylsa**
 
 <img src="https://i.pinimg.com/originals/80/7b/5c/807b5c4b02e765bb4930b7c66662ef4b.gif" width="200"/>
@@ -31,7 +32,8 @@ bridging deep engineering with product strategy and scalable architecture.
 ![OpenCV](https://img.shields.io/badge/-OpenCV-B5EAD7?style=flat-square&logo=opencv&logoColor=333)
 ![LangChain](https://img.shields.io/badge/-LangChain-E2F0CB?style=flat-square&logoColor=333)
 
-**Infra** &nbsp;
+**Infra & Desktop** &nbsp;
+![Tauri](https://img.shields.io/badge/-Tauri-FFB3D9?style=flat-square&logo=tauri&logoColor=333)
 ![Node.js](https://img.shields.io/badge/-Node.js-FFDAC1?style=flat-square&logo=node.js&logoColor=333)
 ![Three.js](https://img.shields.io/badge/-Three.js-E2F0CB?style=flat-square&logo=three.js&logoColor=333)
 ![Kafka](https://img.shields.io/badge/-Kafka-FFB3C1?style=flat-square&logo=apachekafka&logoColor=333)
