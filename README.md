@@ -22,12 +22,6 @@ Driven by elegant architecture and scalable design.
 
 ---
 
-### 📊 ` stats `
-
-<img src="https://github-readme-stats.vercel.app/api?username=EN-AenaHabib&show_icons=true&theme=rose_pine&hide_border=true&title_color=FFB3D9&icon_color=C7CEEA&text_color=FFDDE8&bg_color=1f1928" width="48%"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EN-AenaHabib&layout=compact&theme=rose_pine&hide_border=true&title_color=FFB3D9&text_color=FFDDE8&bg_color=1f1928" width="41%"/>
-
----
-
 ### 🌷 ` contact `
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-FFB3D9?style=flat-square&logo=linkedin&logoColor=333)](https://www.linkedin.com/in/aena-habib-260947354/) [![GitHub](https://img.shields.io/badge/-GitHub-C7CEEA?style=flat-square&logo=github&logoColor=333)](https://github.com/EN-AenaHabib)
